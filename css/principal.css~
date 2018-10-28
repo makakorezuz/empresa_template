@@ -1,0 +1,10 @@
+/*Hoja de Estilos 
+Desarrollo de Aplicaciones Informáticas
+Christian Peralta Guzmán
+Octubre de 2018
+*/
+body{
+    font: 15px Arial, Helvetica, sans-serif;
+    
+    
+}
